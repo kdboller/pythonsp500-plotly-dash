@@ -1,7 +1,7 @@
 # pythonsp500-plotly-dash
 This repo contains the Jupyter notebook and Python script with the full code for the "Python for Finance:  Plotly Dash" post, as well as the excel file initially read in as the sample portfolio and the csv files generated from the Jupyter notebook.
 
--- 
+---
 
 ## Relevant posts where you can find the tutorial
 
