@@ -16,7 +16,7 @@ This repo contains the Jupyter notebook and Python script with the full code for
 **Note and for best results:**  It is recommended that you have Python 3.6 or greater so that you can run the Plotly Dashboard locally with the provided csv files.  
 
 I also strongly recommend setting up a virtual environment.  I manage all of my virtual environments with Anaconda.  
-Here [to come] is an explanation on how to set up virtual environments within Anaconda.
+Here [https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c] is an explanation on how to set up virtual environments within Anaconda.
 
 Following the virtual environment explanation and leveraging the requirements.txt file included in this repo.
 
