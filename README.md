@@ -19,14 +19,14 @@ To recreate the entire analysis, I recommend setting up a virtual environment (d
 
 I highly recommend that you download the [Anaconda distribution](https://www.anaconda.com/download/).  You can also run the notebook without Anaconda using ``pip`` to install the required packages, however Anaconda is the industry standard for data science.
 
-## Python Version and Virtual Environments:  
+## Python Version and Virtual Environments  
 It is recommended that you have Python 3.6 or greater so that you can run the Plotly Dashboard locally with the provided csv files.  
 
 I strongly recommend setting up a virtual environment. I manage all of my virtual environments with Anaconda.  
 
 [Here](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c) is a very thorough explanation on how to set up virtual environments within Anaconda.
 
-## Requirements:
+## Requirements
 **[TO COME]** Provide brief walkthrough of how to use requirements.txt files and then conda or pip install the remaining files.
 
 For any packages not distributed under Anaconda, e.g., the Yahoo Finance package fix, you can do the following in your virtual environment:  ``pip install [name of package]``.
