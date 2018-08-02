@@ -7,7 +7,7 @@ To recreate the entire analysis, I recommend setting up a virtual environment (d
 
 ## Relevant posts where you can find the tutorial
 
-1. Medium: [To come]
+1. Medium: [https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be]
 2. Personal blog:  https://kdboller.github.io/2018/07/13/python-for-finance-plotly-dash.html
 
 ## Getting set up
