@@ -27,6 +27,4 @@ I strongly recommend setting up a virtual environment. I manage all of my virtua
 [Here](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c) is a very thorough explanation on how to set up virtual environments within Anaconda.
 
 ## Requirements
-**[TO COME]** Provide brief walkthrough of how to use requirements.txt files and then conda or pip install the remaining files.
-
 For any packages not distributed under Anaconda, e.g., the Yahoo Finance package fix, you can do the following in your virtual environment:  ``pip install [name of package]``.
