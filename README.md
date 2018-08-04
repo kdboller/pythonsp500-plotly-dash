@@ -1,7 +1,7 @@
 # pythonsp500-plotly-dash
 This repo contains the Jupyter notebook and Python script with the full code for my "Python for Finance:  Plotly Dash" post, as well as the excel file initially read in as the sample portfolio, using pandas, and the csv files generated from the Jupyter notebook.  Using a virtual environment, Python 3.6, and the libraries listed in the requirements.txt file, you can run a Plotly Dash dashboard locally based on the csv files generated from the Jupyter notebook.
 
-To recreate the entire analysis, I recommend setting up a virtual environment (described below), load the requirements.txt file into the virtual environment (also described below), and ``pip install`` or ``conda install`` any additional packages -- the explanations for how to accomplish all of this should either be described below or provided in the virtual environment link below. 
+To recreate the entire analysis, I recommend setting up a virtual environment (described below), loading the requirements.txt file into the virtual environment (also described below), and ``pip install`` or ``conda install`` any additional packages -- the explanations for how to accomplish all of this should either be described below or provided in the virtual environment link below. 
 
 ---
 
